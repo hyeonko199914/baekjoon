@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.Intrinsics.Arm;
 using System.Text;
 using System.Xml.Schema;
-using System.ComponentModel
+using System.ComponentModel;
 
 static class Program{
     static void Main(string[] args){

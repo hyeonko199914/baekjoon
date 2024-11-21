@@ -1,0 +1,6 @@
+D:\github\baekjoon\baekjoon-main\obj\Debug\net8.0\baekjoon-main.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\baekjoon\baekjoon-main\obj\Debug\net8.0\baekjoon-main.AssemblyInfoInputs.cache
+D:\github\baekjoon\baekjoon-main\obj\Debug\net8.0\baekjoon-main.AssemblyInfo.cs
+D:\github\baekjoon\baekjoon-main\obj\Debug\net8.0\baekjoon-main.csproj.CoreCompileInputs.cache
+D:\github\baekjoon\baekjoon-main\obj\Debug\net8.0\baekjoon-main.sourcelink.json
+D:\github\baekjoon\baekjoon-main\obj\Debug\net8.0\baekjoon-main.csproj.AssemblyReference.cache
